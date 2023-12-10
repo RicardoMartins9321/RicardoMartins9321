@@ -1,25 +1,3 @@
-
-
-<hr>
-Hello, my name is Ricardo Martins and I'm a Software Engineering student at Universidade de Aveiro
-<hr>
-<table class="border-none dark-theme">
- <tr>
-   <td align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=200 src="https://github-readme-stats.vercel.app/api?username=RicardoMartins9321&theme=dark" />
-     </a>
-   </td>
-   <td align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMartins9321&theme=dark&layout=compact&langs_count=5&card_width=320" />
-     </a>
-   </td>
- </tr>
-</table>
-<hr>
-
-
 <style>
  .border-none {
   border-collapse: collapse;
@@ -51,3 +29,22 @@ Hello, my name is Ricardo Martins and I'm a Software Engineering student at Univ
   font-family: 'Courier New', Courier, monospace;
  }
 </style>
+
+<hr>
+Hello, my name is Ricardo Martins and I'm a Software Engineering student at Universidade de Aveiro
+<hr>
+<table class="border-none dark-theme">
+ <tr>
+   <td align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img height=200 src="https://github-readme-stats.vercel.app/api?username=RicardoMartins9321&theme=dark" />
+     </a>
+   </td>
+   <td align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMartins9321&theme=dark&layout=compact&langs_count=5&card_width=320" />
+     </a>
+   </td>
+ </tr>
+</table>
+<hr>
