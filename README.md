@@ -24,5 +24,5 @@ Hello, my name is Ricardo Martins and I'm a Software Engineering student at Univ
 <br>
 ![GitHub Status](https://img.shields.io/badge/GitHub-Status-brightgreen)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&langs_count=5&title_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartins9321&layout=compact&theme=dark&langs_count=5&title_color=58a6ff)
 <br>
