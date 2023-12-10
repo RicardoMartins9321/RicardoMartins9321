@@ -48,3 +48,8 @@ Hello, my name is Ricardo Martins and I'm a Software Engineering student at Univ
  </tr>
 </table>
 <hr>
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMartins9321&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMartins9321&langs_count=5&theme=radical)
